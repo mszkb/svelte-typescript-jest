@@ -9,6 +9,7 @@ This one has been pre-setup with TypeScript and Jest testing support.
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit dceddia/svelte-typescript-jest svelte-app
+npx degit mszkb/svelte-typescript-jest svelte-app
 cd svelte-app
+npm install
 ```
