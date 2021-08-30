@@ -1,9 +1,9 @@
 ---
 <p align="center">
 <img alt="Svelte Logo" src="https://github.com/mszkb/svelte-typescript-jest/blob/gh_pages/screenshots/svelte-logo.png?raw=true" height=115/>
-<img style="padding: 30px 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Antu_bqm-add.svg/240px-Antu_bqm-add.svg.png" width=40>
+<img src="https://github.com/mszkb/svelte-typescript-jest/blob/gh_pages/screenshots/spacer.png?raw=true">
 <img alt="TypeScript Logo" style="padding-bottom: 4px" src="https://github.com/mszkb/svelte-typescript-jest/blob/gh_pages/screenshots/typescript-logo.png?raw=true" width=100 />
-<img style="padding: 30px 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Antu_bqm-add.svg/240px-Antu_bqm-add.svg.png" width=40>
+<img src="https://github.com/mszkb/svelte-typescript-jest/blob/gh_pages/screenshots/spacer.png?raw=true">
 <img alt="Jest Logo" src="https://github.com/mszkb/svelte-typescript-jest/blob/gh_pages/screenshots/jest-logo.png?raw=true" width=100 />
 
 <h1>Svelte + TypeScript + Jest</h1>
@@ -18,6 +18,10 @@ npx degit mszkb/svelte-typescript-jest svelte-app
 cd svelte-app
 npm install
 ```
+
+## Developing
+
+```npm run dev```
 
 ## Important Notice
 
