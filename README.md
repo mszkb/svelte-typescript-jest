@@ -19,9 +19,17 @@ cd svelte-app
 npm install
 ```
 
-## Developing
+## Running
 
-```npm run dev```
+```
+npm run dev
+```
+
+## Build for production and deploy
+
+```
+npm run build
+```
 
 ## Important Notice
 
