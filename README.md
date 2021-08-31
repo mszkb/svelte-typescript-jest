@@ -5,9 +5,8 @@
 <img alt="TypeScript Logo" style="padding-bottom: 4px" src="https://github.com/mszkb/svelte-typescript-jest/blob/gh_pages/screenshots/typescript-logo.png?raw=true" width=100 />
 <img src="https://github.com/mszkb/svelte-typescript-jest/blob/gh_pages/screenshots/spacer.png?raw=true">
 <img alt="Jest Logo" src="https://github.com/mszkb/svelte-typescript-jest/blob/gh_pages/screenshots/jest-logo.png?raw=true" width=100 />
-
-<h1>Svelte + TypeScript + Jest</h1>
 </p>
+<h1 align="center">Svelte + TypeScript + Jest</h1>
 
 This is a project template for [Svelte](https://svelte.dev) apps. It's based on the official one from https://github.com/sveltejs/template. And some config files are based on https://github.com/dceddia/svelte-typescript-jest.
 
