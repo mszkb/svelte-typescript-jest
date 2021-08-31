@@ -9,7 +9,7 @@
 <h1>Svelte + TypeScript + Jest</h1>
 </p>
 
-This is a project template for [Svelte](https://svelte.dev) apps. It's based on the official one from https://github.com/sveltejs/template. And also based on https://github.com/dceddia/svelte-typescript-jest but with upgraded npm packages.
+This is a project template for [Svelte](https://svelte.dev) apps. It's based on the official one from https://github.com/sveltejs/template. And some config files are based on https://github.com/dceddia/svelte-typescript-jest.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
@@ -19,10 +19,17 @@ cd svelte-app
 npm install
 ```
 
-## Running
+## Development
 
 ```
 npm run dev
+```
+
+## Unit-Testing
+
+```
+npm run test
+npm run test:watch
 ```
 
 ## Build for production and deploy
@@ -30,6 +37,8 @@ npm run dev
 ```
 npm run build
 ```
+
+and then deploy the contents of public folder.
 
 ## Important Notice
 
